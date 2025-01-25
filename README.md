@@ -71,6 +71,3 @@ I'm always open to collaborating on interesting projects, learning new technolog
 
 <img src="https://raw.githubusercontent.com/abdessamad202/abdessamad202/output/snake.svg" alt="Snake animation" />
 
----
-⭐️ From [Abdessamad](https://github.com/abdessamad202)
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/slides/RIJQL532c7hFnKmSzRb5B8/Untitled?node-id=1-48&embed-host=share" allowfullscreen></iframe>
