@@ -1,3 +1,4 @@
+![My Banner](./mybanner.png)
 # Hi there! I'm Abdessamad 👋
 
 ## 🚀 About Me
